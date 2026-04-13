@@ -22,11 +22,9 @@ This project recognizes handwritten digits (0–9) using a CNN model trained on 
 2. Run all cells
 3. Test with image
 
-📊 Result
-
-(Add your accuracy)
 
 📸 Output
 
-(Add screenshot)
+<img width="1920" height="1080" alt="Screenshot 2026-04-13 102436" src="https://github.com/user-attachments/assets/31889310-927d-4475-84d6-4abdd1929b9b" />
+
 My google colab link of the project-https://chatgpt.com/s/t_69dc628a8e288191bf030fe9d7654391
