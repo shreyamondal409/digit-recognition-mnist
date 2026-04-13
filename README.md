@@ -29,3 +29,4 @@ This project recognizes handwritten digits (0–9) using a CNN model trained on 
 📸 Output
 
 (Add screenshot)
+My google colab link of the project-https://chatgpt.com/s/t_69dc628a8e288191bf030fe9d7654391
